@@ -1,12 +1,13 @@
 const quotes = [
     {
-      quote: "생생하게(vivid) 꿈꾸면(dream) 이루어진다(realization)",
-      author: " - 이지성",
+      quote: "vivid dream equals to realization",
+      author: " - Ji-Seong Lee",
     },
-    {
-      quote: "생각과 행동과의 간격이 성장 속도를 결정한다.",
-      author: " - 정회일",
+
+    { quote: "The gap between your thoughts and practice will decide your growth speed",
+    author: "Hoi-Il Jeong", 
     },
+
     {
       quote:
         "The world is a book and those who do not travel read only one page.",
@@ -37,8 +38,8 @@ const quotes = [
       author: " - Hilaire Belloc",
     },
     {
-      quote: "Travel expands the mind and fills the gap.",
-      author: " - Sheda Savage",
+      quote: "Stay hungry, Stay foolish.",
+      author: " - Steve Jobs",
     },
   ];
   
